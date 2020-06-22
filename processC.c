@@ -14,8 +14,8 @@
 
 /*
  To compile:
- ~ gcc -o lab7 lab7.c
- ~ ./lab7 <filename.txt>
+ ~ gcc -o processC processC.c
+ ~ ./processC <filename.txt>
  */
 
 void logCont(char *temp, char **arr) {
